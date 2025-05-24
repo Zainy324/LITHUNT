@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lithunt/static/css/main.ad5fe9dd.css",
+    "main.js": "/lithunt/static/js/main.6db7b940.js",
+    "static/media/amongus.png": "/lithunt/static/media/amongus.6e949330da88332b64b1.png",
+    "static/media/logo.png": "/lithunt/static/media/logo.70071b61d249e1a6de05.png",
+    "static/media/fake.jpeg": "/lithunt/static/media/fake.bc5747183c542d86fefc.jpeg",
+    "static/media/mobile.jpg": "/lithunt/static/media/mobile.3a11b2c6408dac239932.jpg",
+    "index.html": "/lithunt/index.html",
+    "main.ad5fe9dd.css.map": "/lithunt/static/css/main.ad5fe9dd.css.map",
+    "main.6db7b940.js.map": "/lithunt/static/js/main.6db7b940.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad5fe9dd.css",
+    "static/js/main.6db7b940.js"
+  ]
+}
