@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/LITHUNT/static/css/main.268a1182.css",
-    "main.js": "/LITHUNT/static/js/main.56c42ae9.js",
+    "main.css": "/LITHUNT/static/css/main.d4eb2c49.css",
+    "main.js": "/LITHUNT/static/js/main.32d2a934.js",
     "static/media/amongus.png": "/LITHUNT/static/media/amongus.6e949330da88332b64b1.png",
     "static/media/logo.png": "/LITHUNT/static/media/logo.70071b61d249e1a6de05.png",
     "static/media/fake.jpeg": "/LITHUNT/static/media/fake.bc5747183c542d86fefc.jpeg",
     "static/media/mobile.jpg": "/LITHUNT/static/media/mobile.3a11b2c6408dac239932.jpg",
     "index.html": "/LITHUNT/index.html",
-    "main.268a1182.css.map": "/LITHUNT/static/css/main.268a1182.css.map",
-    "main.56c42ae9.js.map": "/LITHUNT/static/js/main.56c42ae9.js.map"
+    "main.d4eb2c49.css.map": "/LITHUNT/static/css/main.d4eb2c49.css.map",
+    "main.32d2a934.js.map": "/LITHUNT/static/js/main.32d2a934.js.map"
   },
   "entrypoints": [
-    "static/css/main.268a1182.css",
-    "static/js/main.56c42ae9.js"
+    "static/css/main.d4eb2c49.css",
+    "static/js/main.32d2a934.js"
   ]
 }
